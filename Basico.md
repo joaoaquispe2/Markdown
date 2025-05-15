@@ -57,3 +57,100 @@ Se colocan tres asteriscos o barras bajas; de igual manera para carácteres entr
 ***Negrita y Cursiva con 3 Asteriscos***  
 ___Negrita y Cursiva con 3 Barras Bajas___  
 Ne***grita y Cursi***va de c***aracte***res
+
+> ## BlockQuotes (Citas de bloque)
+> Son citaciones o tambien texto que resalta por encima de los demás, para crear una BlockQuote, se debe colocar el símbolo ">" al incio de una línea.
+>
+> Como se puede ver se puede crear de todo dentro de una BlockQuote, desde párrafos hasta incluir Headings como se ven en este ejemplo.
+>
+> Los símbolos de ">" deben continuar apareciendo en el inicio de las líneas hasta que se quiera cerrar la BlockQuote.
+>
+> >## BlockQuotes Anidadas
+> >
+> >Dentro de una BlockQuote también se puede colocar más de estas colocando otro símbolo ">>" al inicio de la línea deseada.
+> > 
+>
+
+## Orderer Lists (Listas Ordenadas)
+
+Para crear una lista ordenada se debe colocar el número uno seguido inmediatamente de un punto y luego un espacio. Se puede continuar la lista en orden numérico pero incluso si colocas números en desorden se verá una lista ordenada. Para crear identación usamos Tab.
+
+1. Uno
+2. Dos
+9. Tres  
+   1.  Tres Punto Uno
+   2.  Tres Punto Dos
+
+## Unorderer Lists (Listas Ordenadas)
+
+Para crear una lista ordenada podemos usar 3 tipos diferentes de símbolos: el asterisco "*", el símbolo de suma "+" y el símbolo de resta "-" . Se recomienda siempre usar del mismo tipo. La identación se realiza de la misma manera.
+
+* Primero
+* Segundo
+* Tercero
+  + Primero del Tercero
+  + Segundo del Tercero
+
+## Lists Elements (Elementos de Lista)
+
+Se pueden añadir elementos dentro de un elemento de una lista, como párrafos, BlockQuotes u otros elementos que veremos luego para esto debemos asegurarnos de dejar una línea en blanco y dar un Tab luego del elemento de la lista para mantener el orden y la referencia.
+
+1. First
+2. Second
+
+    Parrafo dentro de un elemento de una lista.
+
+3. Third
+
+    > BlockQuote dentro de un elemento de una lista.
+
+4. Fourth
+
+## Code (Código)
+
+También se puede colocar texto en forma de código, para esto se usan los acentos simples o dobles `code`, ``morecode``
+
+Se pueden generar bloques completos de código para esto se usa la identación con 2 Tabs como si realizaramos programación de verdad.
+
+    # Código en Python
+    a = 2   
+    b = 5
+    print(a+b)
+
+## Horizontal Rules (Reglas)
+
+Para colocar una regla horizontal como la que se puede ver debajo de los Headings 1 y 2, se puede colocar tres asteriscos, guiones bajos o guiones comunes.
+
+***
+---
+___
+
+## Links
+
+Para colocar links se usa las siguiente sintaxis: Colocar el texto que desees que posea un link entre corchetes "[ ]", inmediatamente después colocar el link entre paréntesis "( )".
+
+[Guia de Markdown](https://www.markdownguide.org/)
+
+También se le puede añadir un título al los links, es decir que te muestren un mensaje en lugar de el link. Para esto se coloca dentro de los paréntesis del link, el título entre comillas.
+
+[Guia de Markdown](https://www.markdownguide.org/ "Esto te llevará a la gúia de Markdown")
+
+
+## URLs / Emails
+
+Para colocar urls o direcciones de email rápidamente y sin estar colocadas en un texto se colocan estos links dentro de paréntesis angulares "<>"
+
+<joao.quispeh22@gmail.com>  
+<https://www.markdownguide.org> 
+
+Los links de todo tipo pueden tener formato de negrita cursiva o en código.
+
+**[Guia de Markdown](https://www.markdownguide.org/)**  
+*<joao.quispeh22@gmail.com>*  
+[`Guia de Markdown`](https://www.markdownguide.org/)
+
+## Reference Links
+
+Se puede crear también links en los cuales se referencie el url aunque este se encuentre más adelante o al final. Para esto se coloca el texto dentro de corchetes y luego otros corchetes con un número; por ejemplo, a continuación se verá un link de la [Guía de Markdown][1].
+
+[1]: https://www.markdownguide.org "Esto te llevará a la gúia de Markdown"
