@@ -154,3 +154,17 @@ Los links de todo tipo pueden tener formato de negrita cursiva o en código.
 Se puede crear también links en los cuales se referencie el url aunque este se encuentre más adelante o al final. Para esto se coloca el texto dentro de corchetes y luego otros corchetes con un número; por ejemplo, a continuación se verá un link de la [Guía de Markdown][1].
 
 [1]: https://www.markdownguide.org "Esto te llevará a la gúia de Markdown"
+
+## Images (Imágenes)
+
+También se pueden añadir imágenes dentro de Markdown, para esto se colocará primero el símbolo "!" luego se abre corchetes "[ ]" con el texto del título de imagen, luego abres corchetes "( )" con la ubiación de la imagen, luego también puedes añadir un título.
+
+![Lux y Ezreal](Images/General/General1.jpeg "Lux y Ezreal")
+
+También puedes colocar un link dentro de una imagen para esto se usa una sintaxis similar a la de links, toda la imagen se coloca entre corchetes "[ ]".
+
+[![Lux y Ezreal](Images/General/General1.jpeg)](https://th.bing.com/th/id/R.71f784cf9bac9c86d84d0b32b40ab968?rik=%2f4cKazaIHeTkvA&pid=ImgRaw&r=0 "Imagen de Lux y Ezreal en la web")
+
+## Escape Characters
+
+Hay carácteres en Markdown que no se pueden escribir sin generar algun tipo de formato especial como el "#" para Headigns o "*" para generar texto en formato Bold o Italic. Por esta razón se utiliza el carácter especial "\\" antes de estos carácteres para poder colocarlos con normalidad. los carácteres especiales son: ,\\ , \` , \* , \_ , \[ \] , \{ \} , \( \) , \[ \] , \< \> , \# , \+ , \- , \. , \| , \! .
