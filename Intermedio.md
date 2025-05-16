@@ -76,5 +76,8 @@ Sí, se pueden colocar emojis 🎊, puedes copiarlos desde alguna otra aplicaci�
     Se debe identar con un Tab para indicar que esto es parte del Footnote.  
     `codigo`  
 
+## StrikeThrough (Tachado)
 
+para realziar un Tachado de texto debes colocar dos simbolos de virguilla "~" al inicio y al final de lo que deseas tachar.
 
+~~Texto Tachado con dos Virguillas~~
