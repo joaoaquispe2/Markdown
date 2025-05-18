@@ -11,6 +11,13 @@ Documento que por lo general sirve para ver los cambios que hay dentro de cada v
 * Documento de markdown Avanzado
 * Proyecto README.md
 
+
+### Markdown V1.0.1 (18/05/2025)
+
+**`Fixed`**
+
+* Correcciones ortográficas simples
+* Correción link de la imagen del logo del proyecto Markdown
 ___
 
 Para tener un orden dentro de las versiones se puede tener las siguientes opciones dentro de las versiones de un programa:

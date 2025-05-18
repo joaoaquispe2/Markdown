@@ -15,7 +15,7 @@ Toda la información del proyecto fué obtenida de la guía oficial de Markdown,
 
 [Link Guia Markdown](https://www.markdownguide.org/)
 
-<center><img src="images/Proyect_Readme/Logo_Markdown.jpeg" width="330" height="170"></center>
+<center><img src="Images/Proyect_Readme/Logo_Markdown.jpeg" width="330" height="170"></center>
 
 ### :white_check_mark: ¿Que contiene este proyecto?
 
@@ -28,6 +28,6 @@ A continuación veremos una descripción detallada de los 3 documentos principal
 > Contiene elementos más complicados como tablas, emojis u demás formas de ingresar código, elementos comunes dentro de documentación pero algo más difíciles de implementar.
 
 >### 3. Avanzado :cry:
-> Contiene formatos que solo se pueden hacer con etiquetas HTML, debido a que Markdown si lo soporta, además de métodos avanzados dentro de tablas, headings entre otras cosas
+> Contiene formatos que solo se pueden hacer con etiquetas HTML, debido a que Markdown si lo soporta, además de métodos avanzados dentro de tablas, headings entre otras cosas.
 
-Además de estos, se tendrá una carpeta llamada Proyectos, en donde se colocarán los proyectos que realizaré con Markdwon; y varias carpetas de elementos como imágnees, links u otras cosas que pueden servir para Proyectos futuros.
+Además de estos, se tendrá una carpeta llamada Proyectos, en donde se colocarán los proyectos que realizaré con Markdwon; y varias carpetas de elementos como imágenes, links u otras cosas que pueden servir para Proyectos futuros.

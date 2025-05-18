@@ -54,7 +54,7 @@ HTML también te permite ingresar unos ciertos símbolos que son usados algunas 
 
 ## Table Formating (Formato de Tablas)
 
-Dentro de las Tablas que ya hemos visto tambíen se puede realizar distintos formatos, pero para esto es necesario usar HTML. Por ejemplo se puede colocar saltos de línea con la etiqueta <br\>
+Dentro de las Tablas que ya hemos visto tambíen se puede realizar distintos formatos, pero para esto es necesario usar HTML. Por ejemplo se puede colocar saltos de línea con la etiqueta <br\>.
 
 | Syntax      | Description |
 | :---------: | :---------: |
@@ -68,7 +68,7 @@ Otra cosa que se puede hacer es colocar listas dentro de las Tablas, para esto u
 | Header      | Título |
 | Lista        | Aquí hay una lista en una tabla <ul><li>Primer item.</li><li>Segundo item.</li></ul> |
 
-## Headings HTML
+## HTML Headings
 
 Para colocar Heading con HTML usamos las etiquetas <h1\> hasta la <h6\>, esto nos servirá para las siguientes partes que vermos a continuación.
 
