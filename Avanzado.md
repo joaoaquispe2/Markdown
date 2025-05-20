@@ -83,7 +83,7 @@ Lo anterior es la forma de colocar los Heading en HTML, pero ahora veremos como 
 Con lo anterior ya sabido podemos crear una Tabla de Contenidos con una lista y en cada elemento una referencia hacia un Heading para que podamos desplazarnos por el documento con mayor rapidez.
 
 * <a href="#1">Hacia Heading IDs</a>
-* <a href="#2">Hacia Heading IDs</a>
+* <a href="#2">Hacia Table of Contents</a>
 
 ## Videos
 

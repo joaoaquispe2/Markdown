@@ -17,6 +17,20 @@ Documento que por lo general sirve para ver los cambios que hay dentro de cada v
 
 * Correcciones ortográficas simples
 * Correción link de la imagen del logo del proyecto Markdown
+
+### Markdown V1.0.2 (19/05/2025)
+
+**`Fixed`**
+
+* Correcciones ortográficas simples
+* Correción link de imágenes del documento Avanzado
+
+### Markdown V1.0.3 (19/05/2025)
+
+**`Fixed`**
+
+* Correción de nombre de referencia de Tabla de Contenidos del documento Avanzado
+* Actualización del Changelog hasta la V1.0.3
 ___
 
 Para tener un orden dentro de las versiones se puede tener las siguientes opciones dentro de las versiones de un programa:
