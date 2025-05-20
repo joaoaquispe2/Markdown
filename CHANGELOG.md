@@ -31,6 +31,15 @@ Documento que por lo general sirve para ver los cambios que hay dentro de cada v
 
 * Correción de nombre de referencia de Tabla de Contenidos del documento Avanzado
 * Actualización del Changelog hasta la V1.0.3
+
+___
+
+### Markdown V1.1 (20/05/2025)
+
+**`Added`**
+
+* Proyecto Plantas Antiguo Egipto
+
 ___
 
 Para tener un orden dentro de las versiones se puede tener las siguientes opciones dentro de las versiones de un programa:
