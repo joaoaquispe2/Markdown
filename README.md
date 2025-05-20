@@ -1,6 +1,6 @@
 # ✏️ Markdown ✏️
 
-Bienvenido al primer proyecto de Markdown. En este veremos la importancia del documento README.md, además de realizar el nuestro del proyecto en el que estamos; por esta razón trataremos de usar todo lo aprendido en los tres docuementos que hemos realizado.  
+Bienvenido al primer proyecto de Markdown. En este veremos la importancia del documento README.md, además de realizar el nuestro del proyecto en el que estamos; por esta razón trataremos de usar todo lo aprendido en los tres documentos que hemos realizado.  
 **Así que, ¡comenzemos!**
 
 ### :thinking: ¿Qúe es el documento README.md?

@@ -34,16 +34,16 @@ Esto se refiere más a un tipo especial de BlockQuote, en el cual se coloca un e
 
 Se puede modificar el tamaño de las imágenes que insertemos de dentro de Markdown, para esto usamos la etiqueta <img\> y sus propiedades Width y Height. Como se puede ver también se pueden centrar imágenes con la etiqueta antes vista.
 
-<center><img src="images/General/General2.jpeg" width="280" height="200"></center>
+<center><img src="Images/General/General2.jpeg" width="280" height="200"></center>
 
 ## Image Captions (Título de Imagen)
 
-Tambíen es posible colocar títulos debajao de las imágenes, que expliquen qué se está viendo, para esto usamos la etiqueta <figure\> y la etiqueta <figcaption\>, en donde colocamos el título de la imagen.
+Tambíen es posible colocar títulos debajo de las imágenes, que expliquen qué se está viendo, para esto usamos la etiqueta <figure\> y la etiqueta <figcaption\>, en donde colocamos el título de la imagen.
 
 <figure>
     <center>
-        <img src="images/General/General2.jpeg"
-             alt="Albuquerque, New Mexico" width = "280" height="200">
+        <img src="Images/General/General2.jpeg"
+             alt="Imagen de Caitlyn" width = "280" height="200">
         <figcaption>Título de la Imagen Caitlyn.</figcaption>
     </center>
 </figure>
@@ -66,7 +66,7 @@ Otra cosa que se puede hacer es colocar listas dentro de las Tablas, para esto u
 | Syntax      | Description |
 | :---------: | :---------: |
 | Header      | Título |
-| Lista        | Aquí hay una lista en una tabla <ul><li>Primer item.</li><li>Segundo item.</li></ul> |
+| Lista       | Aquí hay una lista en una tabla <ul><li>Primer item.</li><li>Segundo item.</li></ul> |
 
 ## HTML Headings
 
@@ -74,7 +74,7 @@ Para colocar Heading con HTML usamos las etiquetas <h1\> hasta la <h6\>, esto no
 
 <h2 id="1">Heading IDs (Links de Títulos)</h2>
 
-Lo anterior es la forma de colocar los Heading en HTML, pero ahora veremos como crear links hacia los títulos de nuestro trabajo, para esto colocamos el id dentro de la etiqueta <h2\> y luego para referenciarla usamos la etiqueta <a\> y su propiedad href..
+Lo anterior es la forma de colocar los Heading en HTML, pero ahora veremos como crear links hacia los títulos de nuestro trabajo, para esto colocamos el id dentro de la etiqueta <h2\> y luego para referenciarla usamos la etiqueta <a\> y su propiedad "href"..
 
 <a href="#1">Hacia Heading IDs</a>
 
@@ -89,4 +89,4 @@ Con lo anterior ya sabido podemos crear una Tabla de Contenidos con una lista y 
 
 Si bien no se puede colocar videos dentro de Markdown, si se puede crear imágenes con links a videos como se puede apreciar a continuación, se coloca una imagen y el link hacia un video de Youtube.
 
-[![Imagen de Caitlyn](images/General/General2.jpeg "Cancion de Caitlyn")](https://www.youtube.com/watch?v=K7FX-OdoCuY)
+[![Imagen de Caitlyn](Images/General/General2.jpeg "Cancion de Caitlyn")](https://www.youtube.com/watch?v=K7FX-OdoCuY)

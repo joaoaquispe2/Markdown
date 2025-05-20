@@ -11,7 +11,6 @@ Documento que por lo general sirve para ver los cambios que hay dentro de cada v
 * Documento de markdown Avanzado
 * Proyecto README.md
 
-
 ### Markdown V1.0.1 (18/05/2025)
 
 **`Fixed`**

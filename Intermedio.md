@@ -63,11 +63,15 @@ Tambíen es posible crear Listas de Tareas, para esto se debe crear una Lista De
 - [x] Tarea número 2
 - [ ] Tarea número 3
 
-
 ## Emojis :smirk_cat: 
 
-Sí, se pueden colocar emojis 🎊, puedes copiarlos desde alguna otra aplicación, insertarlos desde Windows 😊. Pero también puedes codificarlos usando el shortocode para Markdown; para esto colocas dos puntos y dentro el nombre clave del emoji :smile:.
+Sí, se pueden colocar emojis 🎊, puedes copiarlos desde alguna otra aplicación, insertarlos desde Windows 😊. Pero también puedes codificarlos usando el shortcode para Markdown; para esto colocas dos puntos y dentro el nombre clave del emoji :smile:.
 
+## StrikeThrough (Tachado)
+
+Para realizar un Tachado de texto debes colocar dos simbolos de virguilla "~" al inicio y al final de lo que deseas tachar.
+
+~~Texto Tachado con dos Virguillas~~
 
 [^1]: Un primer Footnote.
 
@@ -75,9 +79,3 @@ Sí, se pueden colocar emojis 🎊, puedes copiarlos desde alguna otra aplicaci�
     
     Se debe identar con un Tab para indicar que esto es parte del Footnote.  
     `codigo`  
-
-## StrikeThrough (Tachado)
-
-para realziar un Tachado de texto debes colocar dos simbolos de virguilla "~" al inicio y al final de lo que deseas tachar.
-
-~~Texto Tachado con dos Virguillas~~
