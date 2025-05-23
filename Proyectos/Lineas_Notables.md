@@ -1,6 +1,6 @@
 # Lineas Notables :triangular_ruler:
 
-Al trabajar con **Triángulos** tenemos una serie de líneas notables que pueden estar tanto dentro como fuera de los mismos y generar ciertas condiciones especiales en ángulos, lados, etc. A continuación, veremos las principales:bulb::
+Al trabajar con **Triángulos** tenemos una serie de líneas notables que pueden estar tanto dentro como fuera de los mismos y generar ciertas condiciones especiales en ángulos, lados, etc. A continuación, veremos las principales :bulb::
 
 <h3 id = 1> 1. Mediana  </h3>  
 
