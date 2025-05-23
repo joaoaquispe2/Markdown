@@ -40,6 +40,12 @@ ___
 
 * Proyecto Plantas Antiguo Egipto
 
+### Markdown V1.1.1 (22/05/2025)
+
+**`Added`**
+
+* Proyecto Líneas Notables
+
 ___
 
 Para tener un orden dentro de las versiones se puede tener las siguientes opciones dentro de las versiones de un programa:
