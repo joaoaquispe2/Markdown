@@ -51,6 +51,16 @@ ___
 **`Fixed`**
 
 * Correción error de referencia en el Proyecto Lineas Notables
+  
+### Markdown V1.1.3 (04/06/2025)
+
+**`Fixed`**
+
+* Enumeración de los archivos de aprendizaje para mejora del orden.
+
+**`Removed`**
+
+* Eliminación del Heading <ins>Center</ins> del documento Avanzado pues no funciona dentro de GitHub
 ___
 
 Para tener un orden dentro de las versiones se puede tener las siguientes opciones dentro de las versiones de un programa:
