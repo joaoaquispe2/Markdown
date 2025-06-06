@@ -72,6 +72,12 @@ ___
 
 * Eliminación de todas las etiquetas `<center>` pues no tienen relevancia ne GitHub. 
 * Imagen sin uso
+
+### Markdown V1.1.5 (06/06/2025)
+
+**`Changed`**
+
+* Añadido un emoji en el link de la Guía de Markdown
 ___
 
 Para tener un orden dentro de las versiones se puede tener las siguientes opciones dentro de las versiones de un programa:
