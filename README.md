@@ -30,4 +30,4 @@ A continuación veremos una descripción detallada de los 3 documentos principal
 >### 3. Avanzado :cry:
 > Contiene formatos que solo se pueden hacer con etiquetas HTML, debido a que Markdown si lo soporta, además de métodos avanzados dentro de tablas, headings entre otras cosas.
 
-Además de estos, se tendrá una carpeta llamada Proyectos, en donde se colocarán los proyectos que realizaré con Markdwon; y varias carpetas de elementos como imágenes, links u otras cosas que pueden servir para Proyectos futuros.
+Además de estos, se tendrá una carpeta llamada Proyects, en donde se colocarán los proyectos que realizaré con Markdwon; y varias carpetas de elementos como imágenes, links u otras cosas que pueden servir para Proyectos futuros.

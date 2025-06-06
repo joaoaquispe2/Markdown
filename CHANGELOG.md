@@ -1,4 +1,4 @@
-# Changelog Proyecto Markdown
+# Changelog Proyecto Markdown :calendar:
 
 Documento que por lo general sirve para ver los cambios que hay dentro de cada versión de un proyecto, los añadidos, lo que se eliminó, etc.
 
@@ -54,13 +54,24 @@ ___
   
 ### Markdown V1.1.3 (04/06/2025)
 
-**`Fixed`**
+**`Changed`**
 
 * Enumeración de los archivos de aprendizaje para mejora del orden.
 
 **`Removed`**
 
 * Eliminación del Heading <ins>Center</ins> del documento Avanzado pues no funciona dentro de GitHub
+* 
+### Markdown V1.1.4 (06/06/2025)
+
+**`Changed`**
+
+* Nombre de la Carpeta Proyectos
+
+**`Removed`**
+
+* Eliminación de todas las etiquetas `<center>` pues no tienen relevancia ne GitHub. 
+* Imagen sin uso
 ___
 
 Para tener un orden dentro de las versiones se puede tener las siguientes opciones dentro de las versiones de un programa:
