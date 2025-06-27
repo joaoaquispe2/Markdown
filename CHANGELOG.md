@@ -84,6 +84,12 @@ ___
 **`Added`**
 
 * Añadido Fórmulas LATEX dentro del Documento Intermedio
+  
+### Markdown V1.1.7 (27/06/2025)
+
+**`Fixed`**
+
+* Correción errores ortográficos simples
 ___
 
 Para tener un orden dentro de las versiones se puede tener las siguientes opciones dentro de las versiones de un programa:

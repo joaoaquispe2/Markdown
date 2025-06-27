@@ -3,7 +3,7 @@
 Bienvenido al primer proyecto de **Markdown**. En este veremos la importancia del documento README.md, además de realizar el nuestro del proyecto en el que estamos; por esta razón trataremos de usar todo lo aprendido en los tres documentos que hemos realizado.  
 **Así que, ¡comenzemos!**
 
-### :thinking: ¿Qúe es el documento README.md?
+### :thinking: ¿Qué es el documento README.md?
 
 Es un documento que sirve para describir cómo funciona el proyecto, que documentos podemos encontrar, para qué se usa cada documento, etc. En Github además es el primer documento que otros ven cuando revisan un proyecto que estás realizando, por lo que siempre es bueno que tenga información relevante.
 
