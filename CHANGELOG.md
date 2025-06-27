@@ -78,6 +78,12 @@ ___
 **`Changed`**
 
 * Añadido un emoji en el link de la Guía de Markdown
+
+### Markdown V1.1.6 (26/06/2025)
+
+**`Added`**
+
+* Añadido Fórmulas LATEX dentro del Documento Intermedio
 ___
 
 Para tener un orden dentro de las versiones se puede tener las siguientes opciones dentro de las versiones de un programa:
