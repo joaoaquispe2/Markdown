@@ -90,6 +90,13 @@ ___
 **`Fixed`**
 
 * Correción errores ortográficos simples
+
+### Markdown V1.1.7 (27/06/2025)
+
+**`Removed`**
+
+* Eliminación de la sección Color pues no se visualiza en GitHub
+* Eliminación de la sección de Definition List pues no se visualiza en GitHub
 ___
 
 Para tener un orden dentro de las versiones se puede tener las siguientes opciones dentro de las versiones de un programa:
