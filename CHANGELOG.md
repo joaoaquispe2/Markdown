@@ -91,12 +91,19 @@ ___
 
 * Correción errores ortográficos simples
 
-### Markdown V1.1.7 (27/06/2025)
+### Markdown V1.1.8 (27/06/2025)
 
 **`Removed`**
 
 * Eliminación de la sección Color pues no se visualiza en GitHub
 * Eliminación de la sección de Definition List pues no se visualiza en GitHub
+
+### Markdown V1.1.9 (27/06/2025)
+
+**`Changed`**
+
+* Cambio de nombres de Archivos principales a Inglés
+* Cambio de la carpeta de proyectos a Inglés
 ___
 
 Para tener un orden dentro de las versiones se puede tener las siguientes opciones dentro de las versiones de un programa:
