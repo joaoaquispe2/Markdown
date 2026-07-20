@@ -17,7 +17,7 @@ Toda la información del proyecto fué obtenida de la guía oficial de Markdown,
 
 <center><img src="Images/Proyect_Readme/Logo_Markdown.jpeg" width="330" height="170"></center>
 
-### :white_check_mark: ¿Que contiene este proyecto?
+### :one: ¿Que contiene este proyecto?
 
 A continuación veremos una descripción detallada de los 3 documentos principales de aprendizaje que he desarrollado:
 
