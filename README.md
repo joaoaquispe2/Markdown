@@ -13,7 +13,7 @@ Este primer proyecto realizado por mi parte sirve para apuntar todo lo aprendido
 
 Toda la información del proyecto fué obtenida de la guía oficial de Markdown, a la cual se puede acceder a continuación.
 
-:pushpin: [Link Guia Markdown](https://www.markdownguide.org/)
+:pushpin: [Guia Markdown](https://www.markdownguide.org/)
 
 <img src="Images/Proyect_Readme/Logo_Markdown.jpeg" width="330" height="170">
 
