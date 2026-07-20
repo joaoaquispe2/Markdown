@@ -7,7 +7,7 @@ Bienvenido al primer proyecto de **Markdown**. En este veremos la importancia de
 
 Es un documento que sirve para describir cómo funciona el proyecto, que documentos podemos encontrar, para qué se usa cada documento, etc. En Github además es el primer documento que otros ven cuando revisan un proyecto que estás realizando, por lo que siempre es bueno que tenga información relevante.
 
-### :teacher: Proyecto Markdown
+### :thinking::thinking: Proyecto Markdown
 
 Este primer proyecto realizado por mi parte sirve para apuntar todo lo aprendido sobre **Markdown**, además de ser el primero en utilizar **Git**. Dentro de este también se pueden ver proyectos simples, todo con el fin de conocer a fondo este lenguaje de escritura y usarlo más adelante.
 
