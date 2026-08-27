@@ -104,6 +104,13 @@ ___
 
 * Cambio de nombres de Archivos principales a Inglés
 * Cambio de la carpeta de proyectos a Inglés
+
+### Markdown V1.2.0 (27/08/2026)
+
+**`Fixed`**
+
+* Nombre de los archivos y carpetas
+* Correción de los links a imágenes
 ___
 
 Para tener un orden dentro de las versiones se puede tener las siguientes opciones dentro de las versiones de un programa:

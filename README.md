@@ -15,7 +15,7 @@ Toda la información del proyecto fué obtenida de la guía oficial de Markdown,
 
 :pushpin: [Guia Markdown](https://www.markdownguide.org/)
 
-<img src="Images/Proyect_Readme/Logo_Markdown.jpeg" width="330" height="170">
+<img src="Images/Project%20Readme/Logo_Markdown.jpeg" width="330" height="170">
 
 ### :one: ¿Que contiene este proyecto?
 
